@@ -100,7 +100,6 @@ A conversation handler allows **limited casual conversation**, while restricting
 * **LLM API** (Groq / OpenAI compatible models)
 
 ---
----
 
 ## 🧠 Agent State
 
@@ -142,12 +141,6 @@ Example (Windows):
 
 ```bash
 set GROQ_API_KEY=your_api_key
-```
-
-### 3️⃣ Run the application
-
-```bash
-python main.py
 ```
 
 ---
